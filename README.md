@@ -1,4 +1,10 @@
-Citation
+# STARNET
+
+## Citation
+
+If you find the repository helpful to your project, please cite as follows:
+
+```bibtex
 @ARTICLE{10536059,
   author={Zhang, Xiangli and Wang, Zishuo and Wang, Xuesong and Luo, Tianze and Xiao, Yong and Fang, Bin and Xiao, Fei and Luo, Dapeng},
   journal={IEEE Transactions on Wireless Communications}, 
